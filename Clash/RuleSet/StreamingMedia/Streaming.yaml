@@ -248,19 +248,6 @@ payload:
   - PROCESS-NAME,com.nhn.android.naverplayer
   - DOMAIN-SUFFIX,naver.com
   - DOMAIN-SUFFIX,smartmediarep.com
-  # > Netflix
-  - PROCESS-NAME,com.netflix.mediaclient
-  - DOMAIN-SUFFIX,netflix.com
-  - DOMAIN-SUFFIX,netflix.net
-  - DOMAIN-SUFFIX,nflxext.com
-  - DOMAIN-SUFFIX,nflximg.com
-  - DOMAIN-SUFFIX,nflximg.net
-  - DOMAIN-SUFFIX,nflxso.net
-  - DOMAIN-SUFFIX,nflxvideo.net
-  - DOMAIN-KEYWORD,netflixdnstest
-  - DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
-  - DOMAIN-KEYWORD,dualstack.apiproxy-
-  - GEOIP,NETFLIX,no-resolve
   # > niconico
   - PROCESS-NAME,jp.nicovideo.android
   - DOMAIN-SUFFIX,dmc.nico
